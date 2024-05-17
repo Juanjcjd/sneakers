@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+.footer {
+    text-align: center;
+}
+.carousel-image {
+    width: 50%; /* Puedes ajustar este tamaño según tus necesidades */
+    height: auto;
+}
